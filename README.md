@@ -1,2 +1,3 @@
 # Student-Management-System
-My First Project
+My First Project 
+Chetan Arekar
